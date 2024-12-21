@@ -1,0 +1,170 @@
+[
+  {
+    "answerkey": 1,
+    "option 3": "Testing large datasets",
+    "option 4": "Reviewing system boundaries",
+    "question": "What is boundary value analysis?",
+    "option 1": "Testing the limits of input values",
+    "option 2": "Evaluating system boundaries"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Software Quality Assurance",
+    "option 4": "System Quality Analysis",
+    "question": "What does SQA stand for?",
+    "option 1": "Software Quality Analysis",
+    "option 2": "System Quality Assurance"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Acceptance testing",
+    "option 4": "Requirement testing",
+    "question": "Which is not a level of software testing?",
+    "option 1": "Unit testing",
+    "option 2": "Integration testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "To validate design specifications",
+    "option 4": "To improve coding speed",
+    "question": "What is the primary goal of SQA?",
+    "option 1": "To find defects",
+    "option 2": "To improve software processes"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "A report of software bugs",
+    "option 4": "A plan for deployment",
+    "question": "What is a test case?",
+    "option 1": "A document defining expected behavior",
+    "option 2": "A code block for testing"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Testing with full access to source code",
+    "option 4": "Testing only edge cases",
+    "question": "What is black-box testing?",
+    "option 1": "Testing without knowledge of internal code",
+    "option 2": "Testing the code line by line"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "An unused function",
+    "option 4": "A testing methodology",
+    "question": "What does a defect refer to in SQA?",
+    "option 1": "A system feature",
+    "option 2": "A deviation from requirements"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Retesting to verify fixes don't break existing functionality",
+    "option 4": "Testing edge cases",
+    "question": "What is regression testing?",
+    "option 1": "Testing new features only",
+    "option 2": "Testing unrelated modules"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Testing on multiple devices",
+    "option 4": "Testing UI responsiveness",
+    "question": "What is load testing?",
+    "option 1": "Testing under expected workload",
+    "option 2": "Testing with minimal data"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Agile processes",
+    "option 4": "Testing at the end of the project",
+    "question": "What does the V-model emphasize?",
+    "option 1": "Sequential development with parallel testing",
+    "option 2": "Iterative development"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Testing UI elements",
+    "option 4": "Testing design documents",
+    "question": "What is white-box testing?",
+    "option 1": "Testing with knowledge of internal code structure",
+    "option 2": "Testing without any code visibility"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Testing system efficiency",
+    "option 4": "Testing scalability",
+    "question": "What is usability testing?",
+    "option 1": "Testing system compatibility",
+    "option 2": "Testing user-friendliness"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "To record bugs",
+    "option 4": "To automate testing",
+    "question": "What is the purpose of a test plan?",
+    "option 1": "To write test cases",
+    "option 2": "To document the testing approach and scope"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Testing full system behavior",
+    "option 4": "Testing system load",
+    "question": "What is integration testing?",
+    "option 1": "Testing individual components",
+    "option 2": "Testing combined modules"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "MySQL",
+    "option 4": "JUnit",
+    "question": "Which tool is used for bug tracking?",
+    "option 1": "JIRA",
+    "option 2": "Eclipse"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Bug report template",
+    "option 4": "Design specification",
+    "question": "What is a test script?",
+    "option 1": "Automated test instructions",
+    "option 2": "Manual testing plan"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Testing system compatibility",
+    "option 4": "Testing database performance",
+    "question": "What is stress testing?",
+    "option 1": "Testing under extreme conditions",
+    "option 2": "Testing scalability"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Automated testing",
+    "option 4": "System scalability",
+    "question": "What is the primary focus of alpha testing?",
+    "option 1": "Internal team validation",
+    "option 2": "Customer validation"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Checking test plans",
+    "option 4": "Validating system design",
+    "question": "What is acceptance testing?",
+    "option 1": "Validating code",
+    "option 2": "Ensuring system meets business needs"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "Simultaneous test case design and execution",
+    "option 4": "Automated testing using tools",
+    "question": "What is exploratory testing?",
+    "option 1": "Random testing without a plan",
+    "option 2": "Structured testing based on scripts"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "Simultaneous test case design and execution",
+    "option 4": "Automated testing using tools",
+    "question": "\"What is exploratory testing?",
+    "option 1": "Random testing without a plan",
+    "option 2": "Structured testing based on scripts"
+  }
+]
