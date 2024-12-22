@@ -18,7 +18,7 @@ Java, intellij , json
  - If Student loging successful, student can joint the quiz
  - If press s the quiz will be start
  - All 10 questions selected randomly from quiz.json file
- - No dublicate question is not allowed 
+ - No dublicate question is allowed 
  - when student selected ans key it will be mathced to quiz.json anskey
  - Then calculate the result
  - If mathced successful it is count 1, otherwise count 0
